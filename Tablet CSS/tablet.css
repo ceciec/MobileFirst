@@ -1,6 +1,7 @@
 .main-tables--slider {
     display: flex;
     width: 930px;
+    height: auto;
     margin: 0 auto;
 }
 
@@ -14,5 +15,6 @@
 .plans-container--slider {
     display: flex;
     width: 930px;
+    height: auto;
     margin: 0 auto;
 }
